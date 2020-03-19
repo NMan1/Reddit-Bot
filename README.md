@@ -7,4 +7,3 @@ Some of the features are incomplete/need to be improved to your likeing.
 
 Img on the website:
 
-<img src="https://i.imgur.com/dacwJ0k.png" />
