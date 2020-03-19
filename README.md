@@ -6,4 +6,4 @@
 Some of the features are incomplete/need to be improved to your likeing.
 
 Img on the website:
-<im src="https://i.imgur.com/QPhuHjR.png" />
+<img src="https://i.imgur.com/QPhuHjR.png" />
